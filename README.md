@@ -8,8 +8,8 @@ Currently, the primary focus is on Retrieval-Augmented Generation (RAG). RAG is 
 
 ### Contents:
 
-* **RAG/**: This directory contains resources related to RAG implementations.
-    * `Basic_RAG_WorkFlow.jpg`: A visual representation of the RAG workflow.
+* [RAG](RAG/): This directory contains resources related to RAG implementations.
+    * [Basic RAG Workflow](RAG/Basic_RAG_WorkFlow.jpg): A visual representation of the RAG workflow.
     * `RAG_from_Scratch.ipynb`: A Jupyter Notebook demonstrating a practical implementation of RAG.
 
 ### Future Additions:
